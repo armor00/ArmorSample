@@ -1,4 +1,5 @@
 {
+
   "glitch1": "samples/CLAUDE - glitch01.mp3",
   "glitch2": "samples/CLAUDE - glitch02.mp3",
   "glitch3": "samples/CLAUDE - glitch03.mp3",
@@ -66,7 +67,7 @@
   "sol20": "samples/Man From Sol - The Conclusion.mp3",
   "sol21": "samples/Man From Sol - The Dialectic.mp3",
   "sol22": "samples/Man From Sol - Top End.mp3",
-  "sol23": "samples/Man From Sol - Transient.mp3"
+  "sol23": "samples/Man From Sol - Transient.mp3",
 
   "odd1": "samples/oddlogic - click descent_1.mp3",
   "odd2": "samples/oddlogic - click descent_2.mp3",
@@ -121,3 +122,5 @@
   "sunnk25": "samples/sunnk - why do we keep trying.mp3",
   "sunnk26": "samples/sunnk - your howl is applied.mp3"
 }
+
+
